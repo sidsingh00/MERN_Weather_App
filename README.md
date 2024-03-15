@@ -70,4 +70,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [OpenWeatherMap](https://openweathermap.org/) for providing weather data API.
 
-Feel free to customize it further to fit your project's specific details and requirements.
